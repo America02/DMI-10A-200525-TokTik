@@ -1,7 +1,7 @@
-import 'package:toktik_200995/domain/datasources/video_posts_datasource.dart';
-import 'package:toktik_200995/domain/entities/video_post.dart';
-import 'package:toktik_200995/infrastructure/models/local_video_model.dart';
-import 'package:toktik_200995/shared/data/local_video_posts.dart';
+import 'package:toktik_200525/domain/datasources/video_posts_datasource.dart';
+import 'package:toktik_200525/domain/entities/video_post.dart';
+import 'package:toktik_200525/infrastructure/models/local_video_model.dart';
+import 'package:toktik_200525/shared/data/local_video_posts.dart';
 
 class LocalVideoDatasource implements VideoPostDatasource {
 

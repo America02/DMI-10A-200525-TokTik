@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:toktik_200995/config/theme/app_theme.dart';
-import 'package:toktik_200995/infrastructure/datasources/local_video_datasource_impl.dart';
-import 'package:toktik_200995/infrastructure/repositories/video_posts_repository_impl.dart';
-import 'package:toktik_200995/presentation/providers/discover_provider.dart';
-import 'package:toktik_200995/presentation/screens/discover/discover_screen.dart';
+import 'package:toktik_200525/config/theme/app_theme.dart';
+import 'package:toktik_200525/infrastructure/datasources/local_video_datasource_impl.dart';
+import 'package:toktik_200525/infrastructure/repositories/video_posts_repository_impl.dart';
+import 'package:toktik_200525/presentation/providers/discover_provider.dart';
+import 'package:toktik_200525/presentation/screens/discover/discover_screen.dart';
 
 void main() => runApp(const MyApp());
 

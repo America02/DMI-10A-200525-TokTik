@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:toktik_200995/domain/entities/video_post.dart';
-import 'package:toktik_200995/presentation/widgets/shared/video_buttons.dart';
-import 'package:toktik_200995/presentation/widgets/video/fullscreen_player.dart';
+import 'package:toktik_200525/domain/entities/video_post.dart';
+import 'package:toktik_200525/presentation/widgets/shared/video_buttons.dart';
+import 'package:toktik_200525/presentation/widgets/video/fullscreen_player.dart';
 
 
 class VideoScrollableView extends StatelessWidget {
