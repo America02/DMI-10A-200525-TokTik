@@ -27,7 +27,7 @@ class _FullScreenPlayerState extends State<FullScreenPlayer> {
     super.initState();
 
   controller = VideoPlayerController.asset( widget.videoUrl )
-    ..setVolume(0)
+    ..setVolume(1)
     ..setLooping(true)
     ..play();
 
