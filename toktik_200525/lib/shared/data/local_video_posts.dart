@@ -2,8 +2,8 @@ List<Map<String, dynamic>> videoPosts = [
   {
     'name': 'Sexto 6° Simposio',
     'videoUrl': 'assets/videos/0.mp4',
-    'likes': 10000000000000000,
-    'views': 1239788545478555584,
+    'likes': 13992,
+    'views': 1235841,
   },
   {
     'name': 'Zayn Malik Primer concierto como solista',
